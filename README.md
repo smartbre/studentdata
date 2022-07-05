@@ -2,7 +2,6 @@
 
 # Predicting Student Acadmic Performance
 
-***
 
 ![GitHub last commit](https://img.shields.io/github/last-commit/smartbre/studentdata)<br/>
 
